@@ -5,8 +5,8 @@
 ## 🛠️ Tech Stack:
 ![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-555?style=flat&logo=laravel)&nbsp;
-![HTML](https://img.shields.io/badge/-html-555?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-css-555?style=flat&logo=css3)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
 ![VueJs](https://img.shields.io/badge/-VueJs-555?style=flat&logo=vue.js)&nbsp;
 ![TelegramApi](https://img.shields.io/badge/-Telegram%20API-555?style=flat&logo=telegram)&nbsp;
