@@ -5,11 +5,11 @@
 ## 🛠️ Tech Stack:
 ![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-555?style=flat&logo=laravel)&nbsp;
-![HTML](https://img.shields.io/badge/-html-555?style=flat&logo=html)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=css)&nbsp;
+![HTML](https://img.shields.io/badge/-html-555?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-css-555?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
-![VueJs](https://img.shields.io/badge/-VueJs-555?style=flat&logo=vuejs)&nbsp;
-![TelegramApi](https://img.shields.io/badge/-TelegramAPI-555?style=flat&logo=telegram)&nbsp;
+![VueJs](https://img.shields.io/badge/-VueJs-555?style=flat&logo=vue.js)&nbsp;
+![TelegramApi](https://img.shields.io/badge/-Telegram%20API-555?style=flat&logo=telegram)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
