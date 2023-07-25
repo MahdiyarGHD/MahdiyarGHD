@@ -1,6 +1,6 @@
 [![](./src/header_.png)](#)
 
-> Hi there! I’m a 16-year-old junior back-end developer with a passion for coding. I have experience working with languages and technologies such as PHP/Laravel, Javascript/VueJs and GNU/Linux. I’m always looking for new challenges and opportunities to learn. When I’m not coding, you can find me playing video games or studying.
+> Hi there! I’m a 16-year-old junior back-end developer with a passion for coding. I have experience working with languages and technologies such as PHP/Laravel, Javascript/VueJs, .NET and GNU/Linux. I’m always looking for new challenges and opportunities to learn. When I’m not coding, you can find me playing video games or studying.
 
 ## 🛠️ Tech Stack:
 ![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=php)&nbsp;
@@ -10,6 +10,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
 ![VueJs](https://img.shields.io/badge/-VueJs-555?style=flat&logo=vue.js)&nbsp;
 ![TelegramApi](https://img.shields.io/badge/-Telegram%20API-555?style=flat&logo=telegram)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-555?style=flat&logo=dotnet)&nbsp;
+![C#](https://img.shields.io/badge/-C&#9839;-555?style=flat&logo=csharp)&nbsp;
+![Asp](https://img.shields.io/badge/-Asp.net-555?style=flat&logo=csharp)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
