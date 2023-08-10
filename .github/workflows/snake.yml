@@ -43,5 +43,6 @@ jobs:
         with:
           target_branch: output
           build_dir: src
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
