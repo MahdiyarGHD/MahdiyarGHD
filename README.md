@@ -1,6 +1,6 @@
 [![](./src/header_.png)](#)
 
-> Hi there! I’m a 17-year-old junior back-end developer with a passion for coding. I have experience working with languages and technologies such as PHP/Laravel, Javascript/VueJs, C#/.NET and GNU/Linux. I’m always looking for new challenges and opportunities to learn. When I’m not coding, you can find me playing video games, studying or chatting with friend(s).
+> Hi there! I’m a 17-year-old junior back-end developer with a passion for coding. I have experience working with languages and technologies such as PHP/Laravel, Javascript/VueJs, C#/.NET and GNU/Linux. I’m always looking for new challenges and opportunities to learn. When I’m not coding, you can find me playing video games, studying or chatting with friend(gh|s).
 
 ## 🛠️ Tech Stack:
 ![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=php)&nbsp;
