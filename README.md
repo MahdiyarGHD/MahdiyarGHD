@@ -3,8 +3,8 @@
 > Hi there! I’m a 17 y.o. back-end engineer with a passion for coding. I have experience working with languages and technologies such as PHP/Laravel, Javascript/VueJs, GNU/Linux and primarily .NET/C#. I’m always looking for new challenges and opportunities to learn. When I’m not coding, you can find me playing video games, studying or chatting with my friends.
 
 ## 🛠️ Tech Stack:
-![C#](https://img.shields.io/badge/-C&#9839;-555?style=flat&logo=csharp)&nbsp;
-![Asp](https://img.shields.io/badge/-Asp.net-555?style=flat&logo=csharp)&nbsp;
+![C#](https://img.shields.io/badge/-C&#9839;-555?style=flat&logo=.net)&nbsp;
+![Asp](https://img.shields.io/badge/-Asp.net-555?style=flat&logo=.net)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
 ![VueJs](https://img.shields.io/badge/-ReactJs-555?style=flat&logo=react)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=php)&nbsp;
