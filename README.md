@@ -7,7 +7,7 @@
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/MahdiyarGHD#gh-light-mode-only"><img src="https://pixel-profile.vercel.app/api/github-stats?username=MahdiyarGHD&screen_effect=false&hide=avatar&dithering=true" alt="My GitHub Stats"/></a><a href="https://pixel-profile.vercel.app/api/github-stats?username=MahdiyarGHD&screen_effect=false&hide=avatar&theme=crt"><img src="https://pixel-profile.vercel.app/api/github-stats?username=MahdiyarGHD&screen_effect=false&hide=avatar&dithering=true&theme=crt" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/MahdiyarGHD#gh-light-mode-only"><img src="https://pixel-profile.vercel.app/api/github-stats?username=MahdiyarGHD&theme=crt&hide=avatar" alt="My GitHub Stats"/></a><a href="https://pixel-profile.vercel.app/api/github-stats?username=MahdiyarGHD&theme=crt&hide=avatar"><img src="https://pixel-profile.vercel.app/api/github-stats?username=MahdiyarGHD&theme=crt&hide=avatar" alt="My GitHub Stats"/></a></td>
     <tr>
         <td align="center"><a href="https://github.com/MahdiyarGHD#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiyarGHD&theme=default"/></a><a href="https://github.com/MahdiyarGHD#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiyarGHD&theme=tokyonight"/></a></td>
     </tr>
