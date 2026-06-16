@@ -1,6 +1,6 @@
 [![](./src/header_.png)](#)
 
-> Results-driven Back-End Developer with over 3 years of experience designing, developing, and deploying efficient software solutions. Proficient in .NET development with C#, I excel in collaborative environments, delivering high-quality, scalable products to achieve team goals. With good knowledge of both back-end and front-end technologies. I’m passionate about open-source and building reliable systems. Eager to tackle new challenges and contribute to innovative projects.
+> Results-driven Back-End Developer with over 4 years of experience designing, developing, and deploying efficient software solutions. Proficient in .NET development with C#, I excel in collaborative environments, delivering high-quality, scalable products to achieve team goals. With good knowledge of both back-end and front-end technologies. I’m passionate about open-source and building reliable systems. Eager to tackle new challenges and contribute to innovative projects.
 
 
 ## 📈 GitHub Activity Graph:
