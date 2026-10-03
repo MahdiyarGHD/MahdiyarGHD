@@ -9,7 +9,6 @@
 - [vaultkeeper](https://github.com/MahdiyarGHD/vaultkeeper): Privacy-oriented vault app for handling sensitive data safely.
 - [Ink-To-Math](https://github.com/MahdiyarGHD/Ink-To-Math): Converts handwritten math input into clean digital notation.
 - [dwrr-loadbalancer](https://github.com/MahdiyarGHD/dwrr-loadbalancer): Weighted round-robin load balancer implementation for distributed systems learning.
-- [awesome-dotnet-core](https://github.com/MahdiyarGHD/awesome-dotnet-core): Curated .NET Core resources, tools, and references.
 - [TeleBot](https://github.com/MahdiyarGHD/TeleBot): Telegram bot project for automation and command-driven interactions.
 - [laravel-cheat-sheet](https://github.com/MahdiyarGHD/laravel-cheat-sheet): Quick Laravel reference for common patterns and commands.
 
