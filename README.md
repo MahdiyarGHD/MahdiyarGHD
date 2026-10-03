@@ -2,7 +2,18 @@
 
 > Backend engineer building reliable systems, developer tools, and useful open source software with C#/.NET, TypeScript, and PHP.
 
-## 🧭 Project index
+## Open-source highlights
+
+- [Echo](https://github.com/MahdiyarGHD/Echo): Privacy-first communication tool focused on secure, practical daily use.
+- [Shard](https://github.com/MahdiyarGHD/Shard): Lightweight utility project for focused workflows and modular experimentation.
+- [vaultkeeper](https://github.com/MahdiyarGHD/vaultkeeper): Privacy-oriented vault app for handling sensitive data safely.
+- [Ink-To-Math](https://github.com/MahdiyarGHD/Ink-To-Math): Converts handwritten math input into clean digital notation.
+- [dwrr-loadbalancer](https://github.com/MahdiyarGHD/dwrr-loadbalancer): Weighted round-robin load balancer implementation for distributed systems learning.
+- [awesome-dotnet-core](https://github.com/MahdiyarGHD/awesome-dotnet-core): Curated .NET Core resources, tools, and references.
+- [TeleBot](https://github.com/MahdiyarGHD/TeleBot): Telegram bot project for automation and command-driven interactions.
+- [laravel-cheat-sheet](https://github.com/MahdiyarGHD/laravel-cheat-sheet): Quick Laravel reference for common patterns and commands.
+
+## Project index
 
 - **Backend & distributed systems**
   - [TravelBookingSystem](https://github.com/MahdiyarGHD/TravelBookingSystem)
@@ -28,17 +39,6 @@
   - [laravel-cheat-sheet](https://github.com/MahdiyarGHD/laravel-cheat-sheet)
   - [clean-code-php](https://github.com/MahdiyarGHD/clean-code-php)
   - [Network-Plus-Notes](https://github.com/MahdiyarGHD/Network-Plus-Notes)
-
-## 🌟 Open-source highlights
-
-- [Echo](https://github.com/MahdiyarGHD/Echo): Privacy-first communication tool focused on secure, practical daily use.
-- [Shard](https://github.com/MahdiyarGHD/Shard): Lightweight utility project for focused workflows and modular experimentation.
-- [vaultkeeper](https://github.com/MahdiyarGHD/vaultkeeper): Privacy-oriented vault app for handling sensitive data safely.
-- [Ink-To-Math](https://github.com/MahdiyarGHD/Ink-To-Math): Converts handwritten math input into clean digital notation.
-- [dwrr-loadbalancer](https://github.com/MahdiyarGHD/dwrr-loadbalancer): Weighted round-robin load balancer implementation for distributed systems learning.
-- [awesome-dotnet-core](https://github.com/MahdiyarGHD/awesome-dotnet-core): Curated .NET Core resources, tools, and references.
-- [TeleBot](https://github.com/MahdiyarGHD/TeleBot): Telegram bot project for automation and command-driven interactions.
-- [laravel-cheat-sheet](https://github.com/MahdiyarGHD/laravel-cheat-sheet): Quick Laravel reference for common patterns and commands.
 
 ## 📈 GitHub Activity Graph:
 
