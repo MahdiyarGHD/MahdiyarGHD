@@ -1,16 +1,19 @@
 [![](./src/header_.png)](#)
 
-> Backend engineer building reliable systems, developer tools, and useful open source software with C#/.NET, TypeScript, and PHP.
+> Results-driven backend engineer with 4+ years of experience designing and shipping reliable software systems.
+> I build developer tools and scalable backend services with C#/.NET, TypeScript, and PHP.
+> Passionate about open source, I focus on practical products that solve real problems and stay maintainable in production.
 
 ## Open-source highlights
 
-- [Echo](https://github.com/MahdiyarGHD/Echo): Privacy-first communication tool focused on secure, practical daily use.
-- [Shard](https://github.com/MahdiyarGHD/Shard): Lightweight utility project for focused workflows and modular experimentation.
-- [vaultkeeper](https://github.com/MahdiyarGHD/vaultkeeper): Privacy-oriented vault app for handling sensitive data safely.
-- [Ink-To-Math](https://github.com/MahdiyarGHD/Ink-To-Math): Converts handwritten math input into clean digital notation.
-- [dwrr-loadbalancer](https://github.com/MahdiyarGHD/dwrr-loadbalancer): Weighted round-robin load balancer implementation for distributed systems learning.
-- [TeleBot](https://github.com/MahdiyarGHD/TeleBot): Telegram bot project for automation and command-driven interactions.
-- [laravel-cheat-sheet](https://github.com/MahdiyarGHD/laravel-cheat-sheet): Quick Laravel reference for common patterns and commands.
+- [Echo](https://github.com/MahdiyarGHD/Echo): Privacy-first communication app focused on secure, practical daily messaging.
+- [Shard](https://github.com/MahdiyarGHD/Shard): Modular web tool designed for lightweight workflows and focused productivity.
+- [vaultkeeper](https://github.com/MahdiyarGHD/vaultkeeper): Secure vault application for privacy-first credential and sensitive data handling.
+- [TravelBookingSystem](https://github.com/MahdiyarGHD/TravelBookingSystem): End-to-end backend booking platform with real-world service design patterns.
+- [Identity-Microservice](https://github.com/MahdiyarGHD/Identity-Microservice): Authentication and identity service for distributed microservice ecosystems.
+- [Payments-Microservice](https://github.com/MahdiyarGHD/Payments-Microservice): Transaction-focused payment component for scalable service-based architectures.
+- [dwrr-loadbalancer](https://github.com/MahdiyarGHD/dwrr-loadbalancer): Weighted round-robin load balancer implementation for distributed systems.
+- [TeleBot](https://github.com/MahdiyarGHD/TeleBot): Telegram automation bot supporting command-driven interactions and extensible features.
 
 ## Project index
 
