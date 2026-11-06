@@ -7,7 +7,16 @@
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/MahdiyarGHD#gh-light-mode-only"><img src="https://github-stats-extended.vercel.app/api?username=mahdiyarghd" alt="My GitHub Stats"/></a><a href="https://pixel-profile.vercel.app/api/github-stats?username=MahdiyarGHD&hide=avatar&include_all_commits=true"><img src="https://pixel-profile.vercel.app/api/github-stats?username=MahdiyarGHD&hide=avatar&include_all_commits=true" alt="My GitHub Stats"/></a></td>
+        <td align="center">
+            <picture>
+              <source
+                srcset="https://github-stats-extended.vercel.app/api?username=mahdiyarghd&show_icons=true&theme=dark_github"
+                media="(prefers-color-scheme: dark)"
+              />
+              <!-- light mode -->
+              <img src="https://github-stats-extended.vercel.app/api?username=mahdiyarghd&show_icons=true&theme=light_github" />
+            </picture>
+        </td>
     <tr>
         <td align="center"><a href="https://github.com/MahdiyarGHD#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiyarGHD&theme=default"/></a><a href="https://github.com/MahdiyarGHD#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiyarGHD&theme=tokyonight"/></a></td>
     </tr>
